@@ -5,6 +5,6 @@ const nextConfig = {
 		// styledComponentsの有効化
 		styledComponents: true,
 	}
-};
+}
 
-export default nextConfig;
+module.exports = nextConfig
